@@ -86,7 +86,7 @@ class MenuScreenWeb extends StatelessWidget {
                         '${profileProvider.userInfoModel.email ?? ''}',
                         style: robotoRegular.copyWith(color: ColorResources.getWhiteAndBlack(context)),
                       ) : SizedBox(height: 15, width: 100) : Text(
-                        'demo@demo.com',
+                        '',
                         style: rubikRegular.copyWith(fontSize: Dimensions.FONT_SIZE_EXTRA_LARGE, color: ColorResources.getWhiteAndBlack(context)),
                       ),
                       SizedBox(height: Dimensions.PADDING_SIZE_SMALL),

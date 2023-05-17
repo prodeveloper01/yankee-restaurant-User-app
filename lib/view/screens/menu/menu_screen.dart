@@ -74,7 +74,7 @@ class _MenuScreenState extends State<MenuScreen> {
                     '${profileProvider.userInfoModel.email ?? ''}',
                     style: rubikRegular.copyWith(color: ColorResources.BACKGROUND_COLOR),
                   ) : Container(height: 15, width: 100, color: Colors.white) : Text(
-                    'demo@demo.com',
+                    '',
                     style: rubikRegular.copyWith(fontSize: Dimensions.FONT_SIZE_EXTRA_LARGE, color: ColorResources.COLOR_WHITE),
                   ),
                   SizedBox(height: 10),

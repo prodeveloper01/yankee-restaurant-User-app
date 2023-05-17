@@ -1,4 +1,4 @@
-package com.aas.yankkehotdogwing
+package com.aas.yankeeuser
 
 import io.flutter.embedding.android.FlutterActivity
 

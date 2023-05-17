@@ -60,7 +60,7 @@
   "login": "تسجيل الدخول",
   "signup": "التسجيل",
   "email": "البريد الإلكتروني",
-  "demo_gmail": "demo@gmail.com",
+  "demo_gmail": "@Enter Your Email",
   "password_did_not_match": "لم لا تتطابق مع كلمة المرور",
   "mobile_number": "رقم الهاتف المحمول",
   "number_hint": "+880 1234567890",
